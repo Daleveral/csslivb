@@ -7,9 +7,12 @@
 
 - 推荐使用 CDN 加速后的远程 js / css, 链接 :
     - https://jsd.onmicrosoft.cn/gh/Daleveral/csslivb/cssv3.css
+      
     - https://jsd.onmicrosoft.cn/gh/Daleveral/csslivb/jsv2.js
 
 - 美化前后对比 :
+
+  <br/>
 
 ![配置前](https://wkphoto.cdn.bcebos.com/aa64034f78f0f7360be03a6a1a55b319ebc413ba.jpg)
 
@@ -28,6 +31,10 @@
 - 下面我给出了两个无序列表 ( 当然配置文件的最前面的注释里也有 ) , 你想更改哪里的配置就将对应的黑色实心小圆点后的文字复制后在  Aplayer.min.css  中搜索 ( 只有两处会涉及 js 文件有特别提醒 ), 然后你就能找到我埋在那里的定位注释了 ( 比如用 VS Code, 搜索指定文字的快捷键是 Ctrl F, 如果我想要更改 “歌单背景颜色”, 那么只需要选定这几个字按 Ctrl F, 即可找到对应的位置了 )
 
  -  觉得不错可以给个 **star** 谢谢 ~
+
+___
+
+<br/>
 
 对于底部栏, 修改哪个即搜索哪个词条即能定位, 词条后的括号里为注释, 搜索时请忽略 :
 - 底部栏歌曲名
